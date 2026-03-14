@@ -1,7 +1,4 @@
-> # **🚀 PRODIGY_GA_04 — Image-to-Image Translation using cGAN called Pix2Pix**
-
-This repository contains **Task 4: Image-to-Image Translation Project** as part of my **Generative AI Internship at Prodigy Infotech**, where I implemented a Conditional GAN (cGAN) model called Pix2Pix for translating images from one domain to another (e.g., building edges to real buildings).
-
+> # **Image-to-Image Translation using cGAN called Pix2Pix**
 
 ### **💡 Project Overview**
 
